@@ -266,7 +266,7 @@ if s:is_dark " DARK VARIANT
   let s:comment      = ['#8a8a8a', '244']
   let s:todo         = ['#ff8700', '208']
   let s:cursorline   = ['#303030', '235']
-  let s:cursorlinenr = ['#ffff00', '226']
+  let s:cursorlinenr = ['#606060', '240']
   let s:cursorcolumn = ['#303030', '235']
   let s:error        = ['#5f0000', '52']
   let s:matchparen   = ['#4e4e4e', '239']
